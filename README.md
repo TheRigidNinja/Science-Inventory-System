@@ -1,2 +1,2 @@
 # Science-Inventory-System
-I fixed most of the problems, but the report system is still not working 
+The login system works perfect i believe, Although it still needs to under go futher testing 
